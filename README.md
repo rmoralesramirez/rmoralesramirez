@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 I'm Rodrigo Morales
+### 👋 Hi there , I'm Rodrigo
 
 📈 I'm currently studying a Master in Business Analytics & Big Data at IE Business School
 
