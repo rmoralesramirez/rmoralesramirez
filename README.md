@@ -6,7 +6,7 @@
 
 🌱 I’m continuing to learn Python, R, SQL, NoSQL and PySpark
 
-🔭 I'm currently working on improving my Big data analytics to assess personality based on voice analysis 
+🔭 I'm currently working on improving my Big data analytics to assess personality based on voice analysis project
 
 💭 You can also find me at [LinkedIn](https://www.linkedin.com/in/rodrigomoralesramirez/) or at [morami](https://morami.es/about.html), my own personal webpage
 
