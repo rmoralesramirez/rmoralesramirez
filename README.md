@@ -2,7 +2,7 @@
 
 👋 I'm Rodrigo Morales
 
-📈 I'm studying a Master in Business Analytics & Big Data at IE Business School
+📈 I'm currently studying a Master in Business Analytics & Big Data at IE Business School
 
 ⚡ My main interests are Business Analytics, Business Intelligence, Data Analysis and Data Visualization focused on Strategy
 
