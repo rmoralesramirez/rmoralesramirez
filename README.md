@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Rodrigo
+
+Hello, I'm Rodrigo Morales and I am studying at IE Business School
 
 <!--
 **rmoralesramirez/rmoralesramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
